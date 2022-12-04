@@ -1,2 +1,2 @@
 # python
-all python project
+ping project
